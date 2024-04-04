@@ -13,5 +13,7 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
     Set up pathways by which to perform leet code problems. Did GA post-course reading materials module 1.
     https://liberty.sfs-flex.com/polyglot/study/1
 ### R1D3
-    Second module of GA post-course reading materials. Met with Jasmine to discuss post-course strategem.
-    https://liberty.sfs-flex.com/polyglot/study/2/
+    Met with Jasmine to discuss post-course strategem. Went through paces of Leet Code 1. Updated basics for portfolio website and connections app.
+    https://portfolio.christopherlazariuk.me
+    https://connections.christopherlazariuk.me
+### R1D4
