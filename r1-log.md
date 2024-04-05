@@ -17,3 +17,6 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
     https://portfolio.christopherlazariuk.me
     https://connections.christopherlazariuk.me
 ### R1D4
+    Researched Bootstrap Fundamentals, prepped for follow up with Jasmine to talk portfolio revamp
+### R1D5
+    Jasmine meeting, portfolio Talk, leet code 9. Palindrome Number.
