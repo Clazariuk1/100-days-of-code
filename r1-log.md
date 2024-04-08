@@ -23,3 +23,6 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
 
 ### R1D6
     Portfolio modifications. Connections summary add-in. Portfolio pieces, link to portfolio main site injection. Inject 100 days of code into portfolio website. Leet Code 14 Longest Common Prefix. longestCommonPrefix.js file.
+
+### R1D7
+    Major portfolio modifications. Primary focus, enabling responsive styling.
