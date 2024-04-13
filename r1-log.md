@@ -26,3 +26,4 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
 
 ### R1D7
     Major portfolio modifications. Primary focus, enabling responsive styling.
+    https://portfolio.christopherlazariuk.me
