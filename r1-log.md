@@ -27,3 +27,15 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
 ### R1D7
     Major portfolio modifications. Primary focus, enabling responsive styling.
     https://portfolio.christopherlazariuk.me
+
+## R1D8
+    Did coding challenge groupingTransactionsChallengeWL.js for prospective job interview. Note: must increase speed of computing. More play with frequency counters necessary.
+
+## R1D8
+    Began studying up on SQL. Did 1 hour video, was unable to begin code challenge questions due to problems syncing azure with VS Code. Must dig in as able. https://www.youtube.com/watch?v=p3qvj9hO_Bo
+
+## R1D9
+    leet code closure counter. closureCounter.js and leet code 169, Majority Element. majorityElement.js
+
+## R1D10
+    leet code
