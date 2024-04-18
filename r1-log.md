@@ -39,3 +39,6 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
 
 ## R1D10
     leet code 13 Roman to Integer. romanInteger.js
+
+## R1D11
+    Leet code 1207. "unique number of occurrances / frequency counter work"
