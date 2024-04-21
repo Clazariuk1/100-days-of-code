@@ -51,3 +51,5 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
 
 ## R1D14
       leet code 2623 memoize // memoize.js
+## R1D15
+    leet code 2630 memoize II // memoize2.js
