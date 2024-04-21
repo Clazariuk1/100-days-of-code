@@ -45,3 +45,9 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
 
 ## R1D12
     leet code 242. "Valid Anagram " -> validAnagram.js
+
+## R1D13
+    leet code 442. findAllDuplicates.js // leet code 2620 - counter. counter 2620.js
+
+## R1D14
+      leet code 2623 memoize // memoize.js
