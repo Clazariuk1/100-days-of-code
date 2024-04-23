@@ -53,3 +53,6 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
       leet code 2623 memoize // memoize.js
 ## R1D15
     leet code 2630 memoize II // memoize2.js
+
+## R1D16
+    reached halfway point for codedex legend of python course, completed checkpoint project. Link: https://www.codedex.io/community/checkpoint-project/hQIYHZBnQasVEbCxQCuA
