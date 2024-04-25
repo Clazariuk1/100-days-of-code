@@ -56,3 +56,8 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
 
 ## R1D16
     reached halfway point for codedex legend of python course, completed checkpoint project. Link: https://www.codedex.io/community/checkpoint-project/hQIYHZBnQasVEbCxQCuA
+
+## R1D17
+    Continued Legend of Python Study
+## R1D8
+    ref files: bdayMain.py ; wiki.py ; finished legend of python study, re-formatted VS Code for python compatibility.
