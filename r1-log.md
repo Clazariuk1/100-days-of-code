@@ -59,5 +59,7 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
 
 ## R1D17
     Continued Legend of Python Study
-## R1D8
+## R1D18
     ref files: bdayMain.py ; wiki.py ; finished legend of python study, re-formatted VS Code for python compatibility.
+## R1D19
+    Exploring sliding window concepts. slidingWindowTutorials.js
