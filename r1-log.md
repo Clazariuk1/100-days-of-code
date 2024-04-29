@@ -63,3 +63,9 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
     ref files: bdayMain.py ; wiki.py ; finished legend of python study, re-formatted VS Code for python compatibility.
 ## R1D19
     Exploring sliding window concepts. slidingWindowTutorials.js
+
+## R1D20
+    Finished legend of Python course on Codedex and completed final project, made a breakout game clone. Link to Repo: https://github.com/Clazariuk1/breakout-clone
+     /// ALSO . began Arthur Bernier Jr's AlgoCast challenge exercises. Completed ex 1, Anagrams. Link to repo: https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/anagrams/index.js
+
+## R1D21
