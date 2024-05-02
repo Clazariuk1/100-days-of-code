@@ -69,3 +69,18 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
      /// ALSO . began Arthur Bernier Jr's AlgoCast challenge exercises. Completed ex 1, Anagrams. Link to repo: https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/anagrams/index.js
 
 ## R1D21
+    Deep dive on core web vitals - terminology, practice, and how to measure / improve.
+    https://web.dev/articles/inp
+
+    https://developers.google.com/codelabs/chrome-web-vitals-js#0
+
+    Code-along study on binary search trees with Algocast exercise 'bst'. Repository link: https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/bst/index.js
+
+## R1D22
+    AlgoCasts exercises "Chunk" and "capitalize" completed. Also examined linkedlists, not complete. Coding challenge 'codingChallengeforJobApp.js' ; began pythonic refactor project for 100 days of code files, starting with pythonicRefactor > closureCounter.py. Studied up on ARIA . https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA
+## R1D23
+    Algocasts exercises "fib" and "fizbuzz" completed. Also completed examination of circular.
+    Links:
+    https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/circular/index.js
+    https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/fizzbuzz/index.js
+    https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/fib/index.js
