@@ -1,3 +1,5 @@
+# Refactored below javascript function into Python. Only problem encountered: was unable to successfully access the 'init' argument in reset method call, was forced to refactor to a zero resetå
+
 # function createCounter(init) {
 #     if (init <= -1000 || init >= 1000) {
 #         return
@@ -24,23 +26,28 @@
 #  console.log(counter.reset()); // 5
 #  console.log(counter.decrement()); // 4
 
+class CreateCounter:
+    def __init__(self, init):
+        self.count = init
 
-def create_counter(init):
-    if (init <= -1000 or init >= 1000):
-        return
-    count = init
-    def increment():
-        count+= 1
-        return count
-    def __init__():
-        count -= 1
-        return count
-    def __init__():
-        count == init
-        return count
+    def reset(self):
+        self.count = 0
+        return self.count
 
 
-counter = create_counter(5)
-counter.increment()
-counter.reset()
-counter.decrement()
+    def increment(self):
+        self.count += 1
+        return self.count
+
+    def decrement(self):
+        self.count -= 1
+        return self.count
+
+
+counter = CreateCounter(5)
+
+print(counter.count)
+print(counter.increment())
+print(counter.reset())
+print(counter.decrement())
+print(counter.count)

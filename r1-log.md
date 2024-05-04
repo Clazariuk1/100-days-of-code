@@ -84,3 +84,10 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
     https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/circular/index.js
     https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/fizzbuzz/index.js
     https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/fib/index.js
+
+## R1D24
+    Reviewed Algocast exercises Events and fromlast.
+    Links:
+    https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/events/index.js
+    https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/fromlast/index.js
+    Pythonic Refactor - closureCounter.py
