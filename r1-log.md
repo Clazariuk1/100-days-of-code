@@ -91,3 +91,13 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
     https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/events/index.js
     https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/fromlast/index.js
     Pythonic Refactor - closureCounter.py
+
+# R1D25
+    Pythonic refactor of leet code 1207 - leetCode1207.py
+    Pythonic Refactor of Two Sum. twoSum.py
+    Pythonic Refactor of Longest Common Prefix. longestCommonPrefix.py
+    Pythonic Refactor of palindromeNumber. palindromeNumber.py
+    Pythonic Refactor of slidingWindowTutorials/ leetcode 3. slidingWindows.py
+    Pythonic Refactor of majority elements leetcode. majorityElement.py
+    Pythonic Refactor of valid anagram . validAnagram.py
+    Pythonic Refactor of romanInteger . romanInteger.py
