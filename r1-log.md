@@ -101,3 +101,5 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
     Pythonic Refactor of majority elements leetcode. majorityElement.py
     Pythonic Refactor of valid anagram . validAnagram.py
     Pythonic Refactor of romanInteger . romanInteger.py
+    Pythonic Refactor of memoize. memoize.py
+    Pythonic Refactor of memoize2. memoize2.py
