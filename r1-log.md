@@ -103,3 +103,20 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
     Pythonic Refactor of romanInteger . romanInteger.py
     Pythonic Refactor of memoize. memoize.py
     Pythonic Refactor of memoize2. memoize2.py
+
+# R1D26
+
+    Portfolio Website Updating/tweaking. https://portfolio.christopherlazariuk.me
+
+# R1D27
+    Algocasts!
+    levelwidth review: https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/levelwidth/index.js
+    linkedlist review: https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/linkedlist/index.js
+    matrix review: https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/matrix/index.js
+    maxChar solve: https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/maxchar/index.js
+    palindrome solve: https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/palindrome/index.js
+    pyramid solve: https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/pyramid/index.js
+
+# R1D28
+    Began studying for AWS Cloud Practitioner Certification. Link:
+    https://www.w3schools.com/aws/index.php
