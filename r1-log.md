@@ -120,3 +120,9 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
 # R1D28
     Began studying for AWS Cloud Practitioner Certification. Link:
     https://www.w3schools.com/aws/index.php
+
+# R1D29
+    Continued study for AWS Cloud Practitioner Certification and initial review of practice exams.
+    Link to study source:https://www.w3schools.com/aws/index.php
+
+    Link to practice exam source: https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/blob/master/practice-exam/practice-exam-1.md
