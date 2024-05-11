@@ -131,3 +131,6 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
     Continued study for AWS cloud practitioner certification. Practice exam 11, barely passing grade. https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/blob/master/practice-exam/practice-exam-11.md
     CSS battle.dev front end challenges. https://cssbattle.dev/play/HxvGBndq11G1PjpY85yZ
     DailyUI challenge: https://replit.com/@Clazariuk1/DailyUISignUpPageChallenge#style.css
+
+# R1D31
+    Continued study for AWS Cloud Practitioner Certification. Same as above, additional tests.
