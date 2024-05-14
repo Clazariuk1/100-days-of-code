@@ -134,3 +134,6 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
 
 # R1D31
     Continued study for AWS Cloud Practitioner Certification. Same as above, additional tests.
+
+# R1D32
+    AWS Cloud Practitioner Exam. Review Exoplanetarium code.
