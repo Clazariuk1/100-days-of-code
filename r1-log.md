@@ -137,3 +137,16 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
 
 # R1D32
     AWS Cloud Practitioner Exam. Review Exoplanetarium code.
+
+# R1D33
+    Typescript tutorial. https://www.youtube.com/watch?v=d56mG7DezGs
+
+# R1D34
+    Algocasts exercises. Qfroms, Queue, reverseInt, reverseString, sorting, stack, vowels
+    https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/qfroms/index.js
+    https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/queue/index.js
+    https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/reverseint/index.js
+    https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/reversestring/index.js
+    https://github.com/Clazariuk1/AlgoCasts/tree/master/exercises/sorting
+    https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/stack/index.js
+    https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/vowels/index.js
