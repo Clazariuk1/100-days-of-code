@@ -150,3 +150,9 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
     https://github.com/Clazariuk1/AlgoCasts/tree/master/exercises/sorting
     https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/stack/index.js
     https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/vowels/index.js
+
+# R1D35
+    Algocasts exercises. Tree, Validate, Weave.
+    https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/tree/index.js
+    https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/validate/index.js
+    https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/weave/index.js
