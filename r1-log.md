@@ -156,3 +156,8 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
     https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/tree/index.js
     https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/validate/index.js
     https://github.com/Clazariuk1/AlgoCasts/blob/master/exercises/weave/index.js
+
+# R1D36
+
+    SQL tutorials through Codedex.
+    https://www.codedex.io/sql
