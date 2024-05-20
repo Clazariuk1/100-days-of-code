@@ -161,3 +161,6 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
 
     SQL tutorials through Codedex.
     https://www.codedex.io/sql
+
+# R1D37
+    Beginning meeting and research for upcoming driven to develop hackathon.
