@@ -167,3 +167,6 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
 
 # R1D38
     Setting up processes and schedule and mission for team Theta Hackathon work
+
+# R1D39
+    Socket.io follow along tutorial. https://www.youtube.com/watch?v=NU-HfZY3ATQ
