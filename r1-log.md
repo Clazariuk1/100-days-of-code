@@ -170,3 +170,14 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
 
 # R1D39
     Socket.io follow along tutorial. https://www.youtube.com/watch?v=NU-HfZY3ATQ
+
+
+# R1D40
+    Major project management prep work for Online App. Jira board work. Product Manager Tutorial video.
+     https://careerfoundry.com/en/tutorials/product-management-for-beginners/product-management-analytics
+
+# R1D41
+        Major project management prep work for Online App. Jira board work. Product Manager Tutorial video.
+     https://careerfoundry.com/en/tutorials/product-management-for-beginners/product-management-analytics
+
+# R1D42
