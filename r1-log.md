@@ -181,3 +181,4 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
      https://careerfoundry.com/en/tutorials/product-management-for-beginners/product-management-analytics
 
 # R1D42
+    Troubleshooting ENV file problems with git control for driven project.
