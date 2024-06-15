@@ -188,3 +188,6 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
     https://github.com/Developers-Challenge/Theta
     PythonicRefactor of algocasts problem FromList.
     https://github.com/Clazariuk1/AlgoCasts/tree/master/PythonicRefactor/FromLastPython
+
+# R1D44
+    troubleshooting problems with Docker for main Theta project. local machine is not running front and back end servers simultaneously through docker. reason / solution unknown
