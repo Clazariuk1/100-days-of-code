@@ -191,3 +191,6 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
 
 # R1D44
     troubleshooting problems with Docker for main Theta project. local machine is not running front and back end servers simultaneously through docker. reason / solution unknown
+
+# R1D45
+    Still working on Theta. Getting backend straightened out and work on seed file started
