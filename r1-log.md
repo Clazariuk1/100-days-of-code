@@ -194,3 +194,6 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
 
 # R1D45
     Still working on Theta. Getting backend straightened out and work on seed file started
+
+# R1D46
+    Examined aws ec2 creation and began process of environment build for theta deployment. Cannot determine whether I need to separately create my public key in order to sync to github
