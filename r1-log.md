@@ -197,3 +197,6 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
 
 # R1D46
     Examined aws ec2 creation and began process of environment build for theta deployment. Cannot determine whether I need to separately create my public key in order to sync to github
+
+# R1D47
+    Continued deep dives into the hackathon project. Examine github repo here for more data: https://github.com/Developers-Challenge/Theta
