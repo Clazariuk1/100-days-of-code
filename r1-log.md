@@ -203,3 +203,6 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
 
 # R1D48
     See Previous commit rule. Let's be real, this is a hackathon that I'm throwing all my energy into. Examining dev ops deployment and backend modifications with a mentor today.
+
+# R1D49
+    NextJS, NGINX, certbot tutorials and debugging
