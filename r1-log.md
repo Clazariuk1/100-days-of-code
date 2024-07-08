@@ -206,3 +206,6 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
 
 # R1D49
     NextJS, NGINX, certbot tutorials and debugging
+
+# R1D50
+    Code review and debugging for DriveniiDevelop project.
