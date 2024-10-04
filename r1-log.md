@@ -227,3 +227,6 @@ The log of my #100DaysOfCode challenge. Started on April 1 2024
 
 # R1D55
     Discovered codedex c++ class, got excited so I started lessons
+
+# R1D56
+    codedex intermediate python tutorials for brush up work
